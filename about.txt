@@ -1,0 +1,10 @@
+About This Assignment
+
+Course: Software Construction and Development
+
+Assignment: Lab Assignment 2
+
+Student: Aneesa Zulfiqar
+
+This repository contains my practical work
+using Git and GitHub.
